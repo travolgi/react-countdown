@@ -41,7 +41,7 @@ a:hover {
   bottom: 0;
   width: 100vw;
   height: 23vh;
-  background-image: url('./img/pattern-hills.svg');
+  background-image: url('/public/pattern-hills.svg');
   background-size: cover;
   background-position: top center;
 }

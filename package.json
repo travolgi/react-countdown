@@ -1,6 +1,6 @@
 {
-  "name": "launch-countdown-timer",
-  "homepage": "https://denielden.github.io/react-countdown-timer",
+  "name": "react-countdown",
+  "homepage": "https://travolgi.github.io/react-countdown",
   "version": "0.1.0",
   "private": true,
   "dependencies": {

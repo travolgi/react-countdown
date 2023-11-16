@@ -1,7 +1,7 @@
-import React, { useState, useEffect } from 'react';
+import { useState, useEffect } from 'react';
 import Count from './Count';
 
-const Countdown = () => {
+export default function Countdown() {
 
    const initTimeLeft = () => {
       const year = new Date().getFullYear(),
@@ -32,5 +32,3 @@ const Countdown = () => {
       </>
    );
 }
-
-export default Countdown;
